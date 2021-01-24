@@ -10,4 +10,4 @@ CS 4600 - Computer Graphics - Fall 2020
 Background
 ------------
 
-I implemented ray tracing for a project within my CS 4600 computer graphics class. I wrote the project5.js file.
+I implemented ray tracing for a project within my CS 4600 computer graphics class. I wrote the project6.js file.
